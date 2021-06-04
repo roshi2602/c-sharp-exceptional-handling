@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\c shap exceptional handling\c shap exceptional handling\bin\Debug\c shap exceptional handling.exe.config
+C:\Users\lenovo\source\repos\c shap exceptional handling\c shap exceptional handling\bin\Debug\c shap exceptional handling.exe
+C:\Users\lenovo\source\repos\c shap exceptional handling\c shap exceptional handling\bin\Debug\c shap exceptional handling.pdb
+C:\Users\lenovo\source\repos\c shap exceptional handling\c shap exceptional handling\obj\Debug\c shap exceptional handling.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\c shap exceptional handling\c shap exceptional handling\obj\Debug\c shap exceptional handling.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\c shap exceptional handling\c shap exceptional handling\obj\Debug\c shap exceptional handling.exe
+C:\Users\lenovo\source\repos\c shap exceptional handling\c shap exceptional handling\obj\Debug\c shap exceptional handling.pdb
